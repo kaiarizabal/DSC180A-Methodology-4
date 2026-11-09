@@ -1,6 +1,4 @@
-Kai Arizabal (karizabal@ucsd.edu)
-
-D42 Bijan Arbab
+Kai Arizabal (karizabal@ucsd.edu) | D42 Bijan Arbab
 
 1. The most interesting topic covered in my domain is actually the County's telemetry project. While technically demanding, I believe their project will be the most rewarding. They are covering rain patterns within the San Diego area.
 2. A potential investigation I would like to pursue for my Quarter 2 Project, relevant to my own City project, is learning more about API calls and integrating AI into systems.
